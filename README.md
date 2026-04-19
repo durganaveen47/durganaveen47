@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 
 # ⚡ Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durganaveen473&show_icons=true&locale=en" alt="durganaveen47" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durganaveen47&show_icons=true&locale=en" alt="durganaveen47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durganaveen473&" alt="durganaveen47" /></p>
 
